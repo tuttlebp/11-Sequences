@@ -324,7 +324,7 @@ def draw_circles(window, points, radius, color):
       :type color: str
     """
     # -------------------------------------------------------------------------
-    # TODO: 6. Implement and test this function.
+    # DONE: 6. Implement and test this function.
     #          Tests have been written for you (above).
     # -------------------------------------------------------------------------
     for k in range(len(points)):
